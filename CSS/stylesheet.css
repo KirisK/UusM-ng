@@ -37,7 +37,7 @@ h2{
 }
 
 .headingSJ2{
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 250;
 }
 
@@ -87,7 +87,7 @@ h2{
     line-height: 1.6em;
     margin-top: 0px;
 }
-.div{
+div{
     padding: 10px;
     text-align: justify;
 }
