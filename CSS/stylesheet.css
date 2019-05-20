@@ -87,17 +87,7 @@ h2{
     line-height: 1.6em;
     margin-top: 0px;
 }
-
-.iframe {
-    float: right;
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: auto;
-}
-
-div{
+.div{
     padding: 10px;
     text-align: justify;
 }
