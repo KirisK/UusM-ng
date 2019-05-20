@@ -1,0 +1,103 @@
+*{
+    background-color: white ;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    margin-top: 4.5%;
+    box-sizing: border-box;
+    font-size: 80px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    text-align: center;
+}
+.text{
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    width: 100%;
+    font-size: 15px;
+    font-weight: 150;
+    line-height: 1.6em;
+    margin: normal;
+    display: block;
+    letter-spacing: 0.05em
+
+}
+.heading{
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    width: 100%;
+    font-size: 25px;
+}
+
+h2{
+    margin-left: 5px;
+    text-align: center;
+}
+
+.headingSJ1{
+    font-size: 32px;
+    font-weight: 250;
+}
+
+.headingSJ2{
+    font-size: 25px;
+    font-weight: 250;
+}
+
+.columnLeft{
+    float: left;
+    width: 33%;
+    font-size: 15px;
+    letter-spacing: 0.05em;
+    line-height: 1.6em;
+    
+}
+
+.columnMiddle{
+    display: inline-block;
+    width: 33%;
+    font-size: 15px;
+    letter-spacing: 0.05em;
+    line-height: 1.6em;
+}
+
+.columnRight{
+    float: right;
+    width: 33%;
+    font-size: 15px;    
+    letter-spacing: 0.05em;
+    line-height: 1.6em;
+}
+
+.row:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.columnLeft2{
+    float: left;
+    width: 33%;
+    padding-left: 100px;
+    padding-top: 0;
+}
+
+.columnMiddle2{
+    display: inline-block;
+    width: 33%;
+    font-size: 15px;
+    letter-spacing: 0.05em;
+    line-height: 1.6em;
+    margin-top: 0px;
+}
+
+.iframe {
+    float: right;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: auto;
+}
+
+div{
+    padding: 10px;
+    text-align: justify;
+}
