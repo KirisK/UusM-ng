@@ -72,21 +72,6 @@ h2{
     clear: both;
 }
 
-.columnLeft2{
-    float: left;
-    width: 33%;
-    padding-left: 100px;
-    padding-top: 0;
-}
-
-.columnMiddle2{
-    display: inline-block;
-    width: 33%;
-    font-size: 15px;
-    letter-spacing: 0.05em;
-    line-height: 1.6em;
-    margin-top: 0px;
-}
 div{
     padding: 10px;
     text-align: justify;
